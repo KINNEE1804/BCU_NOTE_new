@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.mynotes.app-debug-69:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.mynotes.app-main-71:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.mynotes.app-main-71:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_save.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/save.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_cardview.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/cardview.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_listview.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/listview.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_sun.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/sun.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_trash.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/trash.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.mynotes.app-main-71:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_moon.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/moon.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_x.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/x.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_baseline_save_24.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/baseline_save_24.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.mynotes.app-main-71:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_english.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/english.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_setting.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/setting.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_search.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/search.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_bengali.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/bengali.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_languageicon.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/languageicon.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_favourite.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/favourite.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.mynotes.app-main-71:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_add.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/add.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_arrowleft.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/arrowleft.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/drawable_sorticon.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/drawable/sorticon.xml"
+    },
+    {
+        "merged": "com.example.mynotes.app-debug-69:/xml_backup_rules.xml.flat",
+        "source": "com.example.mynotes.app-main-71:/xml/backup_rules.xml"
+    }
+]

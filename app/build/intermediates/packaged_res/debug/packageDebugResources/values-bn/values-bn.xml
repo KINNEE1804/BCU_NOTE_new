@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ghi chú</string>
+    <string name="are_you_sure_you_want_to_delete_this_note">Bạn có chắc chắn muốn xóa ghi chú này không?</string>
+    <string name="change_language">Thay đổi ngôn ngữ</string>
+    <string name="delete_note">Xóa ghi chú</string>
+    <string name="enter_title_of_note">Nhập tiêu đề ghi chú...</string>
+    <string name="no">Không</string>
+    <string name="notes">Ghi chú</string>
+    <string name="search_notes">Ghi chú tìm kiếm</string>
+    <string name="settings">Cài đặt</string>
+    <string name="yes">Có</string>
+</resources>
